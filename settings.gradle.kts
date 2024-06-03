@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "UTSAndroid-PEMROGRAMAN ANDROID 3-10121273-AKHSA LAVRIL KUSUMA"
+rootProject.name = "UTSAndroidPEMROGRAMANANDROID310121273AKHSALAVRILKUSUMAA"
 include(":app")
- 
